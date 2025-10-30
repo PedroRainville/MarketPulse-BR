@@ -1,5 +1,5 @@
-### MarketPulse-BR 
- 📊 Análise de Dados & Insights Estratégicos do Marketplace Brasileiro (Dataset Olist)
+### MarketPulse-BR  
+📊 Análise de Dados & Insights Estratégicos do Marketplace Brasileiro (Dataset Olist)
 
 > *"Transformando dados em decisões inteligentes para o e-commerce brasileiro."*  
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🎯 **Sobre o Projeto**
+## 🎯 Sobre o Projeto
 
 Este projeto explora o **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** para extrair **insights acionáveis** em quatro pilares estratégicos:  
 
@@ -21,11 +21,11 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 
 ---
 
-## 🔍 **Principais Insights**
+## 🔍 Principais Insights
 
-### 1️⃣ 💰 **Análise de Receita**
+### 1️⃣ 💰 Análise de Receita
 
-#### 📅 **Receita Mensal**
+#### 📅 Receita Mensal
 - 📈 **Crescimento geral** com sazonalidade clara.
 - 🚀 **Pico em novembro** (Black Friday!).
 - 📉 Queda em **dezembro/janeiro** (pós-festivo).
@@ -33,7 +33,7 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 > 💡 **Recomendação:**  
 > Alinhar estoque, marketing e logística às sazonalidades. Testar campanhas pós-Black Friday (ex: “Janeiro Renova”).
 
-#### 🏆 **Top 3 Categorias por Receita**
+#### 🏆 Top 3 Categorias por Receita
 1. `beleza_saude`  
 2. `relogios_presentes`  
 3. `cama_mesa_banho`
@@ -43,7 +43,7 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 
 ---
 
-### 2️⃣ 🏪 **Desempenho dos Vendedores**
+### 2️⃣ 🏪 Desempenho dos Vendedores
 
 - Um **pequeno grupo de vendedores** gera grande parte da receita.
 - Esses **top sellers** têm práticas diferenciadas (frete rápido, boas descrições, atendimento ágil).
@@ -53,7 +53,7 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 
 ---
 
-### 3️⃣ 🗺️ **Desempenho Geográfico**
+### 3️⃣ 🗺️ Desempenho Geográfico
 
 - 📍 **São Paulo (SP)** domina o volume de pedidos (>60% do Sudeste).
 - 🌎 Regiões **Norte e Nordeste** ainda subexploradas.
@@ -63,9 +63,9 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 
 ---
 
-### 4️⃣ 😊 **Experiência do Cliente**
+### 4️⃣ 😊 Experiência do Cliente
 
-#### ⏱️ **Entrega no Prazo = Nota Alta!**
+#### ⏱️ Entrega no Prazo = Nota Alta!
 - Pedidos **entregues no prazo** têm **+0,8 pontos** na avaliação média.
 - Atrasos impactam **diretamente a satisfação**.
 
@@ -77,7 +77,7 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 
 ---
 
-## 🧠 **Conclusão & Recomendações Estratégicas**
+## 🧠 Conclusão & Recomendações Estratégicas
 
 > **Logística é experiência. Dados são vantagem competitiva.**
 
@@ -91,17 +91,30 @@ O objetivo? **Guiar decisões de negócio** com base em dados reais — desde ca
 
 ---
 
-## 🛠️ **Tecnologias Utilizadas**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-2962FF?style=flat&logo=plotly&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF9900?style=flat&logo=sqlite&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+## 🛠️ Tecnologias Utilizadas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-2962FF?style=flat&logo=plotly&logoColor=white)  
+
+![SQL](https://img.shields.io/badge/SQL-FF9900?style=flat&logo=sqlite&logoColor=white)  ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
 ---
 
-## 📚 **Fonte dos Dados**
+## 📚 Fonte dos Dados
 🔗 [Brazilian E-Commerce Public Dataset by Olist – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+### 📦 Sobre o Dataset (Kaggle – Olist)
+
+O **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)** é um dos mais completos conjuntos de dados públicos sobre e-commerce no Brasil. Disponibilizado pela **Olist**, plataforma de marketplace, ele contém **mais de 100 mil pedidos** realizados entre 2016 e 2018, com informações detalhadas em múltiplas dimensões:
+
+- 🛒 **Pedidos**: datas de compra, aprovação, envio e entrega  
+- 📦 **Itens**: preço, frete e associação a produtos  
+- 🏷️ **Produtos**: categorias em português (ex: `beleza_saude`, `cama_mesa_banho`)  
+- 👤 **Clientes e vendedores**: localização por estado e cidade  
+- 💳 **Pagamentos**: tipo e número de parcelas  
+- ⭐ **Avaliações**: notas e comentários dos compradores  
+
+Ideal para análises de **receita, logística, satisfação do cliente e comportamento regional**, este dataset é amplamente utilizado em projetos de ciência de dados, estudos de caso e entrevistas técnicas no Brasil e no mundo.
+
+> ✨ *Perfeito para transformar dados brutos em decisões estratégicas!*
 
 ---
 
