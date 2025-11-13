@@ -1,5 +1,5 @@
 ### MarketPulse-BR  
-📊 Análise de Dados & Insights Estratégicos do Marketplace Brasileiro (Dataset Olist)
+ Análise de Dados & Insights Estratégicos do Marketplace Brasileiro (Dataset Olist)
 
 > *"Transformando dados em decisões inteligentes para o e-commerce brasileiro."*  
 
