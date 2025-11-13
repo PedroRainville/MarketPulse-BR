@@ -114,9 +114,4 @@ O **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datase
 
 Ideal para análises de **receita, logística, satisfação do cliente e comportamento regional**, este dataset é amplamente utilizado em projetos de ciência de dados, estudos de caso e entrevistas técnicas no Brasil e no mundo.
 
-> ✨ *Perfeito para transformar dados brutos em decisões estratégicas!*
-
 ---
-
-✨ **Feito com dados, paixão e foco em impacto real.**  
-💬 *Dúvidas ou feedback? Me chame no [LinkedIn](https://www.linkedin.com/in/pedrorainville/)!*
